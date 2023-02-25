@@ -1,3 +1,7 @@
 # Launching-soon....
-[<img alt="alt_text" width="40px" src="src/assets/launching soon.JPG" />](https://github.com/gmaheshraju/Launching-soon)
+
+used React component from here (https://github.com/sLeeNguyen/react-flip-clock-countdown)
+
+
+[<img alt="alt_text"  src="src/assets/launching soon.JPG" />](https://github.com/gmaheshraju/Launching-soon)
 
