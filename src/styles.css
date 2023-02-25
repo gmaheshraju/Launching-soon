@@ -5,8 +5,10 @@
   --fcc-digit-font-size: 30px; /* font size of digit */
   --fcc-digit-color: #000000; /* color of digit */
   --fcc-label-font-size: 14px; /* font size of label */
-  --fcc-label-color: #ffffff; /* color of label */
-  --fcc-background: #ffffff; /* background of digit card */
+  --fcc-label-color: #005180;
+    /* color of label */
+    --fcc-background: #005180;
+    /* background of digit card */
   --fcc-divider-color: #000000; /* color of divider */
   --fcc-divider-height: 1px; /* height of divider */
   --fcc-separator-size: 6px; /* size of colon */
