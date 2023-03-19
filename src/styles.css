@@ -5,9 +5,9 @@
   --fcc-digit-font-size: 30px; /* font size of digit */
   --fcc-digit-color: #000000; /* color of digit */
   --fcc-label-font-size: 14px; /* font size of label */
-  --fcc-label-color: #005180;
+  --fcc-label-color: #fff;
     /* color of label */
-    --fcc-background: #005180;
+    --fcc-background: #ffffff;
     /* background of digit card */
   --fcc-divider-color: #000000; /* color of divider */
   --fcc-divider-height: 1px; /* height of divider */
